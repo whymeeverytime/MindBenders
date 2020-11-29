@@ -8,4 +8,4 @@
 
 ---
 
-![Terminal SS](http://haktan.bilen.ug.bilkent.edu.tr/Completely_RanD0m/MB1.jpg)
+![Terminal SS](http://haktan.bilen.ug.bilkent.edu.tr/Completely_RanD0m/MB1.jpg "Terminal SS")
