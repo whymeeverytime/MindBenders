@@ -4,7 +4,7 @@
  
 * Created only using **If** and **While**.
 
-* Every generator can be found solely and also merged.
+* Every generator can be found solely and also merged
 
 ---
 
